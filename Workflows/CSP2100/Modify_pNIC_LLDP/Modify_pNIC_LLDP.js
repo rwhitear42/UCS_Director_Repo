@@ -71,8 +71,6 @@ var token = username + ":" + password;
 // Encode the username:password to Base64.
 var hash = Base64.getEncoder().encodeToString(token.getBytes("utf-8"));
 
-//logger.addInfo("Hash: " + hash);
-
 logger.addInfo("Interface: " + iface);
 logger.addInfo("State: " + state);
 
