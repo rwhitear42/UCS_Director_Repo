@@ -19,6 +19,29 @@ importPackage(com.cloupia.lib.cIaaS.vcd.api);
 **                                                                                      **
 **    Version: 1.0                                                                      **
 **                                                                                      **
+**    Taskname: CSP_GET_Resources                                                       **
+**                                                                                      **
+**    Returns: JSON representation of the CSP system. Something like so:                **
+**                                                                                      **
+**    {                                                                                 **
+**      "resource:resource": {                                                          **
+**        "resource_name": "csp-2100",                                                  **
+**        "ip_address": "10.87.30.100",                                                 **
+**        "netmask": "255.255.255.0",                                                   **
+**        "default_gw": "10.87.30.2",                                                   **
+**        "mgmt_mtu": 1500,                                                             **
+**        "mgmt_pnic": "enp3s0f2",                                                      **
+**        "mgmt_pnic_mode": "dedicated",                                                **
+**        "mgmt_vlan": 1,                                                               **
+**        "host_name": "csp-penneast",                                                  **
+**        "dns_server": "192.168.1.1",                                                  **
+**        "domain_name": "shlisky.net",                                                 **
+**        "csp_version": "02.01.00.24",                                                 **
+**        "num_cpus_total": 3,                                                          **
+**        "ram_total_mb": 11737,                                                        **
+**        "disk_space_total_gb": 819                                                    **
+**      }                                                                               **
+**    }                                                                                 **                                                                                    **
 **                                                                                      **
  ****************************************************************************************/
 
