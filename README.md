@@ -17,3 +17,4 @@ More examples can be found at the official Cisco Communities website located [he
  5. [Cisco CSP2100 GET NTP Info](https://github.com/rwhitear42/UCS_Director_Repo/tree/master/Workflows/CSP2100/CSP_GET_NTP_Info).
  6. [Cisco CSP2100 GET NTP Status](https://github.com/rwhitear42/UCS_Director_Repo/tree/master/Workflows/CSP2100/CSP_POST_GET_NTP_Status).
  7. [Cisco CSP2100 ADD NTP Server](https://github.com/rwhitear42/UCS_Director_Repo/tree/master/Workflows/CSP2100/CSP_ADD_NTP_Server).
+ 8. [Cisco CSP2100 DELETE NTP Server](https://github.com/rwhitear42/UCS_Director_Repo/tree/master/Workflows/CSP2100/CSP_DELETE_NTP_Server).
