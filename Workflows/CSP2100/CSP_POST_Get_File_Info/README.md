@@ -1,4 +1,4 @@
-# CSP2100 GET Resources
+# CSP2100 GET File Info
 
 This workflow task was written to retrieve the server resources information from a Cisco CSP2100.
 
