@@ -10,4 +10,4 @@ More examples can be found at the official Cisco Communities website located [he
 
 1. [Cisco CSP2100 GET pNIC Info](https://github.com/rwhitear42/UCS_Director_Repo/tree/master/Workflows/CSP2100/CSP_GET_pNIC_Info).
 2. [Cisco CSP2100 GET Resources](https://github.com/rwhitear42/UCS_Director_Repo/tree/master/Workflows/CSP2100/CSP_GET_Resources).
-3. [Cisco 2100 MODIFY pNIC LLDP](https://github.com/rwhitear42/UCS_Director_Repo/tree/master/Workflows/CSP2100/Modify_pNIC_LLDP).
+3. [Cisco CSP2100 MODIFY pNIC LLDP](https://github.com/rwhitear42/UCS_Director_Repo/tree/master/Workflows/CSP2100/Modify_pNIC_LLDP).
