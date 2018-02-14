@@ -12,6 +12,8 @@ User is required to supply the following at a workflow task level:
 * (Optional): Proxy IP or FQDN.
 * (Optional): Proxy port.
 
+Currently, the only output is an SR log entry showing the returned HTTP status and response text. In the future, this will be modified to parse and handle the JSON output in the resonse.
+
 #### The following files are included:
 
 ```CSP_GET_pNIC_Info_UCSD_6_6_0_0B1.wfdx``` - UCS Director exported custom workflow task.
