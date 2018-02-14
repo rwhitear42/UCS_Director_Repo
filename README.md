@@ -15,3 +15,4 @@ More examples can be found at the official Cisco Communities website located [he
  3. [Cisco CSP2100 MODIFY pNIC LLDP](https://github.com/rwhitear42/UCS_Director_Repo/tree/master/Workflows/CSP2100/Modify_pNIC_LLDP).
  4. [Cisco CSP2100 GET File Info](https://github.com/rwhitear42/UCS_Director_Repo/tree/master/Workflows/CSP2100/CSP_POST_Get_File_Info).
  5. [Cisco CSP2100 GET NTP Info](https://github.com/rwhitear42/UCS_Director_Repo/tree/master/Workflows/CSP2100/CSP_GET_NTP_Info).
+ 6. [Cisco CSP2100 GET NTP Status](https://github.com/rwhitear42/UCS_Director_Repo/tree/master/Workflows/CSP2100/CSP_POST_GET_NTP_Status).
